@@ -17,7 +17,7 @@ Example entries:
 ```text
 Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
 Failed password for root from 192.168.1.10 port 22 ssh2
-```text
+```
 
 ## Analysis
 * Detected repeated failed login attempts from a single IP address: 192.168.1.10
